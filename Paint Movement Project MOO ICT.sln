@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paint Movement Project MOO ICT", "Paint Movement Project MOO ICT\Paint Movement Project MOO ICT.csproj", "{22A7CF53-D4E6-4160-8236-F65120712811}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22A7CF53-D4E6-4160-8236-F65120712811}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22A7CF53-D4E6-4160-8236-F65120712811}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22A7CF53-D4E6-4160-8236-F65120712811}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22A7CF53-D4E6-4160-8236-F65120712811}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {847376E6-269C-4A96-9B70-EDD542006163}
+	EndGlobalSection
+EndGlobal
